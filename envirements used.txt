@@ -1,0 +1,4 @@
+conda active first_rag
+
+
+python ingest.py
