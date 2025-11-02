@@ -1,4 +1,5 @@
 # --- Core Frameworks ---
+python-3.11.8
 streamlit==1.39.0
 python-dotenv==1.1.0
 PyPDF2==3.0.1
